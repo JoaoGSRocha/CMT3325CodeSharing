@@ -50,7 +50,7 @@
             // 
             // btnMoveSouth
             // 
-            this.btnMoveSouth.Location = new System.Drawing.Point(385, 503);
+            this.btnMoveSouth.Location = new System.Drawing.Point(384, 502);
             this.btnMoveSouth.Name = "btnMoveSouth";
             this.btnMoveSouth.Size = new System.Drawing.Size(75, 20);
             this.btnMoveSouth.TabIndex = 3;
@@ -60,7 +60,7 @@
             // 
             // btnMoveNorth
             // 
-            this.btnMoveNorth.Location = new System.Drawing.Point(385, 430);
+            this.btnMoveNorth.Location = new System.Drawing.Point(384, 429);
             this.btnMoveNorth.Name = "btnMoveNorth";
             this.btnMoveNorth.Size = new System.Drawing.Size(75, 20);
             this.btnMoveNorth.TabIndex = 4;
@@ -70,7 +70,7 @@
             // 
             // btnMoveWest
             // 
-            this.btnMoveWest.Location = new System.Drawing.Point(310, 466);
+            this.btnMoveWest.Location = new System.Drawing.Point(309, 465);
             this.btnMoveWest.Name = "btnMoveWest";
             this.btnMoveWest.Size = new System.Drawing.Size(75, 20);
             this.btnMoveWest.TabIndex = 5;
@@ -80,7 +80,7 @@
             // 
             // btnMoveEast
             // 
-            this.btnMoveEast.Location = new System.Drawing.Point(461, 466);
+            this.btnMoveEast.Location = new System.Drawing.Point(460, 465);
             this.btnMoveEast.Name = "btnMoveEast";
             this.btnMoveEast.Size = new System.Drawing.Size(75, 20);
             this.btnMoveEast.TabIndex = 6;
